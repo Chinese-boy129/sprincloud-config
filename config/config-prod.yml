@@ -1,1 +1,2 @@
-word: hello world!!  --config-prod.yml
+config:
+  info: hello world!!  --config-prod.yml
